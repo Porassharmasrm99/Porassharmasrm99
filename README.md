@@ -1,4 +1,4 @@
-![MasterHead]([https://github.com/abhii14/abhii14/blob/main/Abhishek.gif?raw=true](https://user-images.githubusercontent.com/194400/180770906-938c8083-28fb-4c03-872f-3a636376f15f.jpg))
+![MasterHead](https://user-images.githubusercontent.com/194400/180770906-938c8083-28fb-4c03-872f-3a636376f15f.jpg)
 
 <h1 align="center">Hi 👋, I'm Poras Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
